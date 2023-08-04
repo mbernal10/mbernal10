@@ -2,7 +2,7 @@
   
 ## Matheus Bernal
 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP), iniciante em Programação,
-buscando sempre aprender novas tecnologias e em busca sempre de novas oportunidades e desafios.
+buscando sempre aprender novas tecnologias e em busca sempre de novas oportunidades e desafios
 
 -------------------
 

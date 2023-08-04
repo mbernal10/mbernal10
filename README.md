@@ -7,9 +7,9 @@ buscando sempre aprender novas tecnologias e em busca sempre de novas oportunida
 -------------------
 
 ## Contato
-<a href="https://www.linkedin.com/matheus-bernal-6699b1174/">![LinkedIn](https://img.shields.io/badge/MatheusBernal-%5865F2?style=for-the-badge&logo=LinkedIn&logoColor=black)</a> 
-<a href="https://www.instagram.com/bernalmatheus/">![Instagram](https://img.shields.io/badge/BernalMatheus-%5865F2?style=for-the-badge&logo=Instagram&logoColor=black)</a> 
-<a href="https://facebook.com/matheus-bernal">![Facebook](https://img.shields.io/badge/MatheusBernal-%5865F2?style=for-the-badge&logo=Facebook&logoColor=black)</a>
+<a href="https://www.linkedin.com/matheus-bernal-6699b1174/">![LinkedIn](https://img.shields.io/badge/MatheusBernal-%231DA1F2?style=for-the-badge&logo=LinkedIn&logoColor=black)</a> 
+<a href="https://www.instagram.com/bernalmatheus/">![Instagram](https://img.shields.io/badge/BernalMatheus-%231DA1F2?style=for-the-badge&logo=Instagram&logoColor=black)</a> 
+<a href="https://facebook.com/matheus-bernal">![Facebook](https://img.shields.io/badge/MatheusBernal-%231DA1F2?style=for-the-badge&logo=Facebook&logoColor=black)</a>
 
 -------------------
 
